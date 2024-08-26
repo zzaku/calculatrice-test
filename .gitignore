@@ -1,0 +1,47 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# Build output
+dist/
+build/
+coverage/
+
+# Babel cache
+*.babelrc
+babel.config.json
+
+# Jest
+jest.config.js
+jest.config.mjs
+*.snap
+coverage/
+
+# Webpack
+webpack.config.js
+*.css
+*.js
+
+# IDE and Editor directories
+.vscode/
+.idea/
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Misc
+*.tgz
+*.gz
